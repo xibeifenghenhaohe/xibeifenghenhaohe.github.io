@@ -1,17 +1,17 @@
-site: Gesko
-title: Gesko
+site: what
+title: 西北风很好喝 trying to build a website
 greetings: Hi 👋
 description: >-
-  just a minimalist, personal blog
+  bro what 
 lang: en-US
-timezone:  Europe/Rome
+timezone: America/Detroit
 repo: https://github.com/DavideBrie/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
 author:
-  name: gesko
-  bio: just a minimalist, personal blog
+  name: 西北风很好喝
+  bio: I have no clue what I am doing
   userpicture: 
   username: # general username
   github: # github username
@@ -22,7 +22,7 @@ author:
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://DavideBrie.github.io" # Domain Name of host. [username].github.io for github pages
+url: "https://xibeifenghenhaohe.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
